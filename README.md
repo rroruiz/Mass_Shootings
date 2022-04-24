@@ -1,0 +1,2 @@
+# Exploratory analysis of mass shootings in the United States
+Recently, the phrase "mass shooting" has been in the news quite often, so in this project I will do an exporatory analysis to see the trends of mass shooting. 
